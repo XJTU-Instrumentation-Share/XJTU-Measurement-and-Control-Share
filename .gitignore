@@ -1,0 +1,31 @@
+# System files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Office temporary files
+~$*
+*.tmp
+*.bak
+
+# Archives: prefer unpacked, browseable files
+*.zip
+*.rar
+*.7z
+*.tar
+*.gz
+
+# Build/cache folders
+.cache/
+.temp/
+tmp/
+
+# Large local-only media dumps
+*.mp4
+*.mov
+*.avi
+*.mkv
+
+# IDE settings
+.vscode/
+.idea/
